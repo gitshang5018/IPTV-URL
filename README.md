@@ -24,20 +24,20 @@
         </p>
         <p dir="auto"><code>https://www.goodiptv.club/bililive.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BiliBili直播
         </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/GSYD-IPV6.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;精选IPV6源
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BESTV源
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/GSYD-IPV6.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;精选IPV6源
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;BESTV源
         </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;SXG源
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;SXG源
         </p>
-<!--       <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;GHYX源
+<!--       <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;GHYX源
         </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;CQYX源
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;CQYX源
         </p> -->
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YQGD源
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YQGD源
         </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;4K/8K源
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;4K/8K源
         </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;MSP源
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;MSP源
         </p>
         
 <h4 dir="auto"><a id="user-content-BigBigGrandG" class="anchor" aria-hidden="true" href="#BigBigGrandG">
@@ -60,11 +60,11 @@
         </a>APTV
         </h4>
         <p dir="auto">
-            <code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;APTV
+            <code>https://gh.gdock22.link/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;APTV
             IPv6</p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;APTV
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;APTV
             回放测试源</p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;APTV 
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;APTV 
             虎牙</p>
         <h4 dir="auto"><a id="user-content-yang" class="anchor" aria-hidden="true" href="#yang">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
@@ -74,9 +74,9 @@
             </svg>
         </a>YanG
         </h4>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YanG
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YanG
             Gather</p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YanG
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YanG
             斗鱼</p>
     <h4 dir="auto"><a id="user-content-Meroser" class="anchor" aria-hidden="true" href="#Meroser">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
@@ -86,7 +86,7 @@
             </svg>
         </a>Meroser
         </h4>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;Meroser精选IPV6源</p>
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/Meroser/IPTV/main/IPTV.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;Meroser精选IPV6源</p>
     <h4 dir="auto"><a id="user-content-yuechan" class="anchor" aria-hidden="true" href="#yuechan">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
                  aria-hidden="true">
@@ -95,9 +95,9 @@
             </svg>
         </a>YueChan
         </h4>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YueChan
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YueChan
             IPv6</p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YueChan
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;YueChan
             Radio</p> 
         <h4 dir="auto"><a id="user-content-whpsky" class="anchor" aria-hidden="true" href="#whpsky">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
@@ -107,11 +107,11 @@
             </svg>
         </a>whpsky
         </h4>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/IPTV-IPV6.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;whpsky-IPV6
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/whpsky/iptv/main/IPTV-IPV6.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;whpsky-IPV6
         </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;whpsky-ChinaTVM3u
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;whpsky-ChinaTVM3u
         </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt</code>&nbsp;&nbsp;&nbsp;&nbsp;whpsky-ChinaTVTxt
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/whpsky/iptv/main/chinatv.txt</code>&nbsp;&nbsp;&nbsp;&nbsp;whpsky-ChinaTVTxt
         </p>
         <h4 dir="auto"><a id="user-content-zbefine" class="anchor" aria-hidden="true" href="#zbefine">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
@@ -121,9 +121,9 @@
             </svg>
         </a>zbefine
         </h4>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;zbefine-m3u
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;zbefine-m3u
         </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt</code>&nbsp;&nbsp;&nbsp;&nbsp;zbefine-txt
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt</code>&nbsp;&nbsp;&nbsp;&nbsp;zbefine-txt
         </p>
         <h4 dir="auto"><a id="user-content-其他大神" class="anchor" aria-hidden="true" href="#其他大神">
             <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16"
@@ -133,13 +133,13 @@
             </svg>
         </a>其他大神
         </h4>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U</code>&nbsp;&nbsp;&nbsp;&nbsp;茶客
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U</code>&nbsp;&nbsp;&nbsp;&nbsp;茶客
         </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt</code>&nbsp;&nbsp;&nbsp;&nbsp;乌云
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt</code>&nbsp;&nbsp;&nbsp;&nbsp;乌云
         </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/hussobaba/AILE-Tv/main/TEBER_TV.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;AILE-TV
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/hussobaba/AILE-Tv/main/TEBER_TV.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;AILE-TV
         </p>
-        <p dir="auto"><code>https://mirror.ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio</code>&nbsp;&nbsp;&nbsp;&nbsp;TVradio
+        <p dir="auto"><code>https://gh.gdock22.link/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio</code>&nbsp;&nbsp;&nbsp;&nbsp;TVradio
         </p>
         <p dir="auto"><code>https://epg.pw/test_channels.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;epg.pw 中国地区可观看</p>
         <p dir="auto"><code>https://epg.pw/test_channels_banned_cn.m3u</code>&nbsp;&nbsp;&nbsp;&nbsp;epg.pw 海外地区可观看</p>
